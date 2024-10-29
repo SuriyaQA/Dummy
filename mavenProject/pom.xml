@@ -44,10 +44,6 @@
     <artifactId>extentreports</artifactId>
     <version>LATEST</version>
 </dependency>
-  	<dependency>
-  		<groupId>com.CucumberAutomationFramework</groupId>
-  		<artifactId>CucumberFramework</artifactId>
-  		<version>0.0.1-SNAPSHOT</version>
-  	</dependency>
+  
   </dependencies>
 </project>
